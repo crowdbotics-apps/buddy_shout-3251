@@ -1,0 +1,3 @@
+rootProject.name = 'buddy_shout_3251'
+
+include ':app'

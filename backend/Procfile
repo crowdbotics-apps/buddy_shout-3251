@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT buddy_shout_3251.wsgi:application
